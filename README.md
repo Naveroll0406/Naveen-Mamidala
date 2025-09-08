@@ -36,7 +36,7 @@ Hugging Face, Git, Jupyter Notebook, VS Code, Tableau, Linux
 
 ## 🚀 Professional Experience
 
-**AI Engineer** – Neuramonks, Ahmedabad, IN (May 2025 – Present)  
+**AI Engineer** – Neuramonks, Ahmedabad, IN (May 2025)  
 - Developed a LangChain-based GitHub Repository Setup Agent to automate end-to-end setup for developers.  
 - Leveraged OpenAI LLM APIs to analyze code and generate clean `requirements.txt`, reducing dependency bloat.  
 - Integrated VS Code auto-launch and environment setup for smooth onboarding.  
@@ -71,3 +71,4 @@ PP Savani University, Surat-Gujarat (2020–2024) – CGPA: 7.9
 ---
 
 Feel free to explore my portfolio for demos and detailed work samples: [Portfolio](https://naveroll0406.github.io/Portfolio/)
+
