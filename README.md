@@ -29,6 +29,7 @@ I'm passionate about building AI-powered solutions that solve real-world problem
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-4B9CD3?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-800080?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/-NLP-9932CC?style=for-the-badge)
+![RAG](https://img.shields.io/badge/-RAG-9932CC?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-0000FF?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFA500?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge)
@@ -91,5 +92,6 @@ PP Savani University, Surat-Gujarat (2020–2024) – CGPA: 7.9
 ---
 
 Feel free to explore my portfolio for demos and detailed work samples: [Portfolio](https://naveroll0406.github.io/Portfolio/)
+
 
 
