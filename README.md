@@ -22,7 +22,7 @@ I'm passionate about building AI-powered solutions that solve real-world problem
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
+
 
 ### AI & Data Science
 ![LLMs](https://img.shields.io/badge/-LLMs-FF6F61?style=for-the-badge)
@@ -91,6 +91,7 @@ PP Savani University, Surat-Gujarat (2020–2024) – CGPA: 7.9
 ---
 
 Feel free to explore my portfolio for demos and detailed work samples: [Portfolio](https://naveroll0406.github.io/Portfolio/)
+
 
 
 
