@@ -17,22 +17,42 @@ I'm passionate about building AI-powered solutions that solve real-world problem
 
 ## 💼 Skills
 
-**Programming & Data Science:**  
-Python, NumPy, Pandas, Machine Learning, Deep Learning, Computer Vision  
+## 🛠 Technologies & Tools | Master
 
-**Artificial Intelligence & LLMs:**  
-LLMs, RAG (Retrieval-Augmented Generation), Prompt Engineering, Fine-Tuning LLMs, LangChain, LangGraph  
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
 
-**Web Scraping & APIs:**  
-Selenium, BeautifulSoup, Streamlit, FastAPI  
+### AI & Data Science
+![LLMs](https://img.shields.io/badge/-LLMs-FF6F61?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-4B9CD3?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-800080?style=for-the-badge)
+![NLP](https://img.shields.io/badge/-NLP-9932CC?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-0000FF?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFA500?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge)
 
-**Databases & Vector Storage:**  
-FAISS, Pinecone, ChromaDB  
+### Web Scraping & APIs
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-2596BE?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge)
 
-**Tools & Platforms:**  
-Hugging Face, Git, Jupyter Notebook, VS Code, Tableau, Linux  
+### Databases & Storage
+![FAISS](https://img.shields.io/badge/-FAISS-000000?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/-Pinecone-FF6F61?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-32CD32?style=for-the-badge)
 
----
+### Platforms & Tools
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FBBE3B?style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge)
+
 
 ## 🚀 Professional Experience
 
@@ -71,4 +91,5 @@ PP Savani University, Surat-Gujarat (2020–2024) – CGPA: 7.9
 ---
 
 Feel free to explore my portfolio for demos and detailed work samples: [Portfolio](https://naveroll0406.github.io/Portfolio/)
+
 
